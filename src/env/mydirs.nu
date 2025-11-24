@@ -60,3 +60,5 @@ mkdir $"($env.MY_SCRIB_DIR)/jnull/rec"
 mkdir $"($env.MY_SCRIB_DIR)/template"
 mkdir $"($env.MY_SCRIB_DIR)/todo"
 mkdir $"($env.MY_SCRIB_DIR)/write/rec"
+
+mkdir $"($env.MY_TMP_DIR)/download"
